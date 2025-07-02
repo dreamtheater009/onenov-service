@@ -4,7 +4,7 @@ Welcome to the Documentations validator node OneNov.
 
 ## Tutorial
 
-- [🟦 Story Validator Setup](https://dreamtheater009.github.io/onenov-service/#/service/story.md)
+- [🟦 Story Validator Setup](#/service/story.md?id=🚀-story-validator-installation-guide)
 
 > 📬 Kontak:  
 > GitHub: [dreamtheater009](https://github.com/dreamtheater009)  
