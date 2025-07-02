@@ -4,7 +4,7 @@ Welcome to the Documentations validator node OneNov.
 
 ## Tutorial
 
-- [🟦 Story Validator Setup](/#/service/story.md)
+- [🟦 Story Validator Setup](/service/story.md)
 
 
 > 📬 Kontak:  
