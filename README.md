@@ -7,5 +7,5 @@ Welcome to the Documentations validator node OneNov.
 - [🟦 Story Validator Setup](#/service/story/story)
 
 > 📬 Kontak:  
-> GitHub: [OneNov0209](https://github.com/OneNov0209)  
+> GitHub: [dreamtheater009](https://github.com/dreamtheater009)
 > Telegram: [@OneNov](https://t.me/onenov0209)
